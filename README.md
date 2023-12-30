@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Asad a fellow newbie Developer</div>  
+### <div align="center">Hey Eveyone</div>  
   
 
 
   
 
-- 🌱 I’m currently learning Data Sciecnce and Backend Development  
-  
+- My name is Asad and I am an App and Web Developer,
+- I love to work on new projects, code minimal UI and try new Tech,
 
-- ⚡ Fun fact: I Like anime a lot  
-  
+- Anime is Love , Football is Life and Development is Everything :)
+
 
 <br/>  
 
@@ -83,26 +83,28 @@
 </div>  
   
 
-<br/>  
+<div  align="center">
 
+  <br/>  
 
+  ![](https://github-readme-stats.vercel.app/api?username=asadalpha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+  <br/>  
 
-<br/>  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=asadalpha&theme=midnight-purple&hide_border=false)<br/>
 
+  <br/>  
 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadalpha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <br/>  
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
   
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 
