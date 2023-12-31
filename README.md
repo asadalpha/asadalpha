@@ -10,9 +10,9 @@
   
 
 - My name is Asad and I am an App and Web Developer,
-- I love to work on new projects, code minimal UI and try new Tech,
+- I love to work on new projects, code minimal UI, and try new Tech,
 
-- Anime is love , Football is Life and Development is Everything :)
+- Anime is Love, Football is Life and Development is Everything :)
 
 
 <br/>  
