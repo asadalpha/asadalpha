@@ -99,12 +99,14 @@
 
   <br/>  
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
   <div align="center">
   <img src="https://i.pinimg.com/originals/49/da/1d/49da1dfa335bec83f2106555b499f41e.gif" alt="Banner GIF" style="width: 100%; max-width: 1000px; height: auto;">
 </div>
+
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 
 
 
