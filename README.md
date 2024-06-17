@@ -8,7 +8,7 @@
 
   
 
-- My name is Asad and I am an App and UX Developer,
+- My name is Asad Jawed and I am an App and UX Developer,
 - I love to work on new projects, code minimal UI, and try new Tech,
 - Currently I am learning AI/Ml and Data Sciecen
 - Anime is Love, Football is Life and Development is Everything :)
