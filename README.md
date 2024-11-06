@@ -12,7 +12,7 @@
 - I love to work on new projects, code minimal UI, and try new Tech,
 - Currently, I am learning AI/ML and Data Science.
 - Anime is Love, Football is Life and Development is Everything :)
-- Lets Connect.
+- Lets Connecta and create new stuff together.
 
 <br/>  
 <br/>
