@@ -22,7 +22,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,javascript,flutter,react,nodejs,figma,html,css,nodejs,express,mongodb,aws,gcp,ps,ai,figma,xd,git,github,go,supabase,firebase,vercel,vite,tailwind,vscode,r,next,dart,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,javascript,flutter,react,nodejs,figma,html,css,nodejs,express,mongodb,aws,gcp,ps,ai,figma,git,github,go,supabase,firebase,vercel,vite,tailwind,vscode,r,next,dart,java&theme=dark)](https://skillicons.dev)
 
 </td></tr></table>  
 
