@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://www.shutterstock.com/image-vector/young-man-manga-anime-cartoon-600nw-2065452146.jpg" align="center" style="width: 100%" /> 
-</div>  
+
 
 ### <div align="center">Hey Everyone</div>  
   
