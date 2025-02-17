@@ -8,7 +8,7 @@
 
 - My name is Asad and I am an App Developer,
 - I love to work on new projects, code minimal UI, and try new Tech,
-- Currently, I am learning AI/ML add Data Science.
+- Currently, I am learning AI/ML add Cloud Computing.
 - Anime is Love, Football is Life and Development is Everything.
 
 
