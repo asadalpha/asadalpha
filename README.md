@@ -1,7 +1,7 @@
 # <div align="center">Hey Everyone, I'm Asad!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Software+Developer+%26+UX+Designer;AI%2FML+%26+Cloud+Enthusiast;Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Software+Developer+%26+UX+Designer;AI%2FML+%26+Cloud+Enthusiast;App+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 ## About Me
