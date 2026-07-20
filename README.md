@@ -8,7 +8,7 @@
 
 - **Software Developer & AI Engineer** passionate about creating seamless user experiences and AI Integrations
 - Love working on **innovative projects**, coding **minimal UI**, and exploring **cutting-edge technologies**
-- Love Reading books and talking about Anime, Football and Tech.
+- Football and Tech.
 
 ---
 
